@@ -20,6 +20,8 @@ From simpler to more advanced, algorithms covered include:
 4. 🌲 **Random Forest**
 5. 🧠 **Neural Networks**
 
+Some of them I've implemented multiple times to make sure they stay burned into my mind 🥷
+
 # 🔥 Motivation
 
 I'm learning ML to gain a powerful tool toward achieving my primary goal: making **Aging** and **Death** completely **optional**. To get in touch or learn more, check out my website: https://www.eliasschlie.com.
