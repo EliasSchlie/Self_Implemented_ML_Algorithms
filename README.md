@@ -22,4 +22,4 @@ From simpler to more advanced, algorithms covered include:
 
 # 🔥 Motivation
 
-I am learning ML to have to powerful tool to contribute towards my main goal, which is making **Aging** and **Death** completely optional. If you want to get in contact or lear more, check out my website: https://www.eliasschlie.com
+I'm learning ML to gain a powerful tool toward achieving my primary goal: making **Aging** and **Death** completely **optional**. To get in touch or learn more, check out my website: https://www.eliasschlie.com.
